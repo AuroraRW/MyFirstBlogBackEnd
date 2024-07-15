@@ -7,3 +7,8 @@ public record PostDto {
     public string Body { get; init; } = default!;
     public DateTime CreatedDate { get; init; }
 }
+
+public record CreatePostDto {
+	public string Title { get; init; } = default!;
+	public string Body { get; init; } = default!;
+}
