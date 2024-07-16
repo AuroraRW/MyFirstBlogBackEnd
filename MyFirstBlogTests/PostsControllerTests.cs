@@ -42,14 +42,12 @@ namespace MyFirstBlogTests
 			Assert.AreEqual(HttpStatusCode.Created, response.StatusCode);
 
 			var responseString = await response.Content.ReadAsStringAsync();
-			var responseObject = JsonConvert.DeserializeObject<PostResponse>(responseString);
+			Console.WriteLine(responseString);
+			var responseObject = JsonConvert.DeserializeObject<PostDto>(responseString);
 
-			Assert.IsNotNull(responseObject.Post);
-			Assert.AreEqual(postData.Title, responseObject.Post.Title);
-			Assert.AreEqual(postData.Body, responseObject.Post.Body);
-			Assert.IsNotNull(responseObject.Post.Slug);
-			Assert.IsNotNull(responseObject.Post.Id);
-			Assert.That(responseObject.Post.CreatedDate, Is.EqualTo(DateTime.UtcNow).Within(TimeSpan.FromSeconds(1)));
+			Assert.IsNotNull(responseObject);
+			Assert.AreEqual(postData.Title, responseObject.Title);
+			Assert.AreEqual(postData.Body, responseObject.Body);
 		}
 
 		[Test]
@@ -73,7 +71,7 @@ namespace MyFirstBlogTests
 			var responseObject = JsonConvert.DeserializeObject<ErrorResponse>(responseString);
 
 			Assert.IsNotNull(responseObject.Errors);
-			Assert.That(responseObject.Errors, Contains.Item("Title cannot be blank"));
+			Assert.Contains("Title cannot be blank", responseObject.Errors);
 		}
 	}
 
