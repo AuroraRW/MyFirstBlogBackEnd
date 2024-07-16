@@ -42,6 +42,7 @@ public class PostService : IPostService
 
 		var post = new Post
 		{
+		      Id = Guid.NewGuid(),
 			Title = postDto.Title,
 			Body = postDto.Body,
 			Slug = slug,
@@ -51,7 +52,14 @@ public class PostService : IPostService
 		_context.Posts.Add(post);
 		_context.SaveChanges();
 
-		return post.AsDto();
+		return new PostDto
+        {
+            Id = post.Id,
+            Title = post.Title,
+            Body = post.Body,
+            Slug = post.Slug,
+            CreatedDate = post.CreatedDate
+        };
 	}
 
     private string GenerateSlug(string title)

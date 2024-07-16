@@ -34,7 +34,7 @@ public class PostsController : ControllerBase {
 
     // Post /posts
     [HttpPost]
-	public IActionResult CreatePost([FromBody] CreatePostDto postDto)
+	public ActionResult<PostDto> CreatePost([FromBody] CreatePostDto postDto)
 	{
 		if (string.IsNullOrWhiteSpace(postDto.Title))
 		{
@@ -42,6 +42,6 @@ public class PostsController : ControllerBase {
 		}
 
 		var createdPost = _postService.CreatePost(postDto);
-		return CreatedAtAction(nameof(GetPost), new { slug = createdPost.Slug }, new { post = createdPost });
+		return CreatedAtAction(nameof(GetPost), new { slug = createdPost.Slug }, createdPost);
 	}
 }
