@@ -38,7 +38,7 @@ namespace MyFirstBlog.Controllers
         }
 
         // Post /posts
-        [HttpPost]
+        [HttpPost("create-post")]
         public IActionResult CreatePost([FromBody] CreatePostDto createPostDto)
         {
             if (string.IsNullOrWhiteSpace(createPostDto.Title))
@@ -48,7 +48,10 @@ namespace MyFirstBlog.Controllers
 
             var post = _postService.CreatePost(createPostDto.Title, createPostDto.Description);
 
-            return CreatedAtAction(nameof(CreatePost), new { post = post });
+            return CreatedAtAction(nameof(GetPost), new { slug = post.Slug }, post);
         }
+
     }
 }
+//testing to see if changes sync from visual studio and vs code
+// success

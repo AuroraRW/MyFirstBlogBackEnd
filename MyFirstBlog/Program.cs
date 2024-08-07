@@ -35,7 +35,7 @@ await DatabaseHelper.ManageMigrationsAsync(scope.ServiceProvider);
 if (env.IsDevelopment())
 {
     app.UseSwagger();
-    app.UseSwaggerUI();
+    app.UseSwaggerUI();  
 
     app.UseCors(MyAllowLocalhostOrigins);
 }
