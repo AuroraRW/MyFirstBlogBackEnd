@@ -11,7 +11,7 @@ namespace MyFirstBlog.Services
     {
         IEnumerable<PostDto> GetPosts();
         PostDto GetPost(string slug);
-        Post CreatePost(string title, string description); // --
+        Post CreatePost(string title, string description);
     }
 
     public class PostService : IPostService
@@ -25,17 +25,32 @@ namespace MyFirstBlog.Services
 
         public IEnumerable<PostDto> GetPosts()
         {
-            return _context.Posts.Select(post => post.AsDto());
+            return _context.Posts.Select(post => new PostDto
+            {
+                Title = post.Title,
+                Description = post.Description,
+                Slug = post.Slug,
+                CreatedDate = post.CreatedDate 
+            });
         }
 
         public PostDto GetPost(string slug)
         {
-            return getPost(slug).AsDto();
+            var post = getPost(slug);
+            if (post == null) return null;
+
+            return new PostDto
+            {
+                Title = post.Title,
+                Description = post.Description,
+                Slug = post.Slug,
+                CreatedDate = post.CreatedDate 
+            };
         }
 
         private Post getPost(string slug)
         {
-            return _context.Posts.Where(a => a.Slug == slug.ToString()).SingleOrDefault();
+            return _context.Posts.FirstOrDefault(a => a.Slug == slug);
         }
 
         public Post CreatePost(string title, string description)
@@ -44,7 +59,8 @@ namespace MyFirstBlog.Services
             {
                 Title = title,
                 Description = description,
-                Slug = GenerateSlug(title)
+                Slug = GenerateSlug(title),
+                CreatedDate = DateTime.UtcNow // fixing bugs/errors
             };
 
             _context.Posts.Add(post);
