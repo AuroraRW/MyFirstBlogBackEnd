@@ -1,10 +1,10 @@
-namespace MyFirstBlog.Controllers;
+/* namespace MyFirstBlog.Controllers;
 
 using Microsoft.AspNetCore.Mvc;
 using MyFirstBlog.Dtos;
 using MyFirstBlog.Services;
 
-[ApiController]
+ [ApiController]
 [Route("posts")]
 
 public class PostsController : ControllerBase {
@@ -32,3 +32,4 @@ public class PostsController : ControllerBase {
         return post;
     }
 }
+*/
