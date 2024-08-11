@@ -1,38 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\",
+  "WorkspaceRootPath": "C:\\Users\\Numan\\OneDrive\\Documents\\FullStack\\MyFirstBlogBackEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|c:\\00code\\fullstack\\myfirstblogbackend\\myfirstblog\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|c:\\00code\\fullstack\\myfirstblogbackend\\myfirstblog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|c:\\00code\\fullstack\\myfirstblogbackend\\myfirstblog\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|c:\\00code\\fullstack\\myfirstblogbackend\\myfirstblog\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|c:\\users\\numan\\onedrive\\documents\\fullstack\\myfirstblogbackend\\myfirstblog\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|c:\\00code\\fullstack\\myfirstblogbackend\\myfirstblog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|c:\\00code\\fullstack\\myfirstblogbackend\\myfirstblog\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|c:\\00code\\fullstack\\myfirstblogbackend\\myfirstblog\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|c:\\users\\numan\\onedrive\\documents\\fullstack\\myfirstblogbackend\\myfirstblog\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|c:\\00code\\fullstack\\myfirstblogbackend\\myfirstblog\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|c:\\users\\numan\\onedrive\\documents\\fullstack\\myfirstblogbackend\\myfirstblog\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|c:\\users\\numan\\onedrive\\documents\\fullstack\\myfirstblogbackend\\myfirstblog\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|c:\\users\\numan\\onedrive\\documents\\fullstack\\myfirstblogbackend\\myfirstblog\\dtos\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\dtos\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|c:\\users\\numan\\onedrive\\documents\\fullstack\\myfirstblogbackend\\myfirstblog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|c:\\users\\numan\\onedrive\\documents\\fullstack\\myfirstblogbackend\\myfirstblog\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|c:\\users\\numan\\onedrive\\documents\\fullstack\\myfirstblogbackend\\myfirstblog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|c:\\users\\numan\\onedrive\\documents\\fullstack\\myfirstblogbackend\\myfirstblog\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EF3AFF-B550-44B0-8D1C-2A74E31A9900}|Solution Items{10EF3AFF-B550-44B0-8D1C-2A74E31A9900}|C:\\Users\\Numan\\OneDrive\\Documents\\FullStack\\MyFirstBlogBackEnd\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
+      "RelativeMoniker": "D:0:0:{10EF3AFF-B550-44B0-8D1C-2A74E31A9900}|Solution Items{10EF3AFF-B550-44B0-8D1C-2A74E31A9900}|solutionrelative:.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,51 +50,103 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\Numan\\OneDrive\\Documents\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "MyFirstBlog\\Entities\\Post.cs",
+              "ToolTip": "C:\\Users\\Numan\\OneDrive\\Documents\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Entities\\Post.cs",
+              "RelativeToolTip": "MyFirstBlog\\Entities\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:43:03.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PostDto.cs",
+              "DocumentMoniker": "C:\\Users\\Numan\\OneDrive\\Documents\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Dtos\\PostDto.cs",
+              "RelativeDocumentMoniker": "MyFirstBlog\\Dtos\\PostDto.cs",
+              "ToolTip": "C:\\Users\\Numan\\OneDrive\\Documents\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Dtos\\PostDto.cs",
+              "RelativeToolTip": "MyFirstBlog\\Dtos\\PostDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:42:47.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\Numan\\OneDrive\\Documents\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "MyFirstBlog\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\Numan\\OneDrive\\Documents\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "MyFirstBlog\\Controllers\\PostsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvzYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:42:54.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreatePostDto.cs",
+              "DocumentMoniker": "C:\\Users\\Numan\\OneDrive\\Documents\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Dtos\\CreatePostDto.cs",
+              "RelativeDocumentMoniker": "MyFirstBlog\\Dtos\\CreatePostDto.cs",
+              "ToolTip": "C:\\Users\\Numan\\OneDrive\\Documents\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Dtos\\CreatePostDto.cs",
+              "RelativeToolTip": "MyFirstBlog\\Dtos\\CreatePostDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:06:02.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "C:\\Users\\Numan\\OneDrive\\Documents\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "MyFirstBlog\\Services\\PostService.cs",
+              "ToolTip": "C:\\Users\\Numan\\OneDrive\\Documents\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Services\\PostService.cs",
+              "RelativeToolTip": "MyFirstBlog\\Services\\PostService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:45:00.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\Numan\\OneDrive\\Documents\\FullStack\\MyFirstBlogBackEnd\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "C:\\Users\\Numan\\OneDrive\\Documents\\FullStack\\MyFirstBlogBackEnd\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-07T20:48:51.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Numan\\OneDrive\\Documents\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Program.cs",
               "RelativeDocumentMoniker": "MyFirstBlog\\Program.cs",
-              "ToolTip": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Program.cs",
+              "ToolTip": "C:\\Users\\Numan\\OneDrive\\Documents\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Program.cs",
               "RelativeToolTip": "MyFirstBlog\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T14:44:39.864Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Post.cs",
-              "DocumentMoniker": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Entities\\Post.cs",
-              "RelativeDocumentMoniker": "MyFirstBlog\\Entities\\Post.cs",
-              "ToolTip": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Entities\\Post.cs",
-              "RelativeToolTip": "MyFirstBlog\\Entities\\Post.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T14:43:03.248Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PostDto.cs",
-              "DocumentMoniker": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Dtos\\PostDto.cs",
-              "RelativeDocumentMoniker": "MyFirstBlog\\Dtos\\PostDto.cs",
-              "ToolTip": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Dtos\\PostDto.cs",
-              "RelativeToolTip": "MyFirstBlog\\Dtos\\PostDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T14:42:47.081Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Numan\\OneDrive\\Documents\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\appsettings.json",
               "RelativeDocumentMoniker": "MyFirstBlog\\appsettings.json",
-              "ToolTip": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\appsettings.json",
+              "ToolTip": "C:\\Users\\Numan\\OneDrive\\Documents\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\appsettings.json",
               "RelativeToolTip": "MyFirstBlog\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -94,52 +154,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PostService.cs",
-              "DocumentMoniker": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Services\\PostService.cs",
-              "RelativeDocumentMoniker": "MyFirstBlog\\Services\\PostService.cs",
-              "ToolTip": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Services\\PostService.cs",
-              "RelativeToolTip": "MyFirstBlog\\Services\\PostService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T14:45:00.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Extensions.cs",
-              "DocumentMoniker": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\Numan\\OneDrive\\Documents\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Extensions.cs",
               "RelativeDocumentMoniker": "MyFirstBlog\\Extensions.cs",
-              "ToolTip": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Extensions.cs",
+              "ToolTip": "C:\\Users\\Numan\\OneDrive\\Documents\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Extensions.cs",
               "RelativeToolTip": "MyFirstBlog\\Extensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T14:44:53.417Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Numan\\OneDrive\\Documents\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "MyFirstBlog\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Numan\\OneDrive\\Documents\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Properties\\launchSettings.json",
               "RelativeToolTip": "MyFirstBlog\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-15T14:50:05.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PostsController.cs",
-              "DocumentMoniker": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Controllers\\PostsController.cs",
-              "RelativeDocumentMoniker": "MyFirstBlog\\Controllers\\PostsController.cs",
-              "ToolTip": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Controllers\\PostsController.cs",
-              "RelativeToolTip": "MyFirstBlog\\Controllers\\PostsController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T14:42:54.111Z"
+              "WhenOpened": "2024-05-15T14:50:05.724Z"
             }
           ]
         }
