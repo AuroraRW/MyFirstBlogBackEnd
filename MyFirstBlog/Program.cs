@@ -1,5 +1,6 @@
 using MyFirstBlog.Helpers;
 using MyFirstBlog.Services;
+using Microsoft.EntityFrameworkCore;
 
 var  MyAllowLocalhostOrigins = "_myAllowLocalhostOrigins";
 
@@ -10,7 +11,10 @@ var env = builder.Environment;
 
 // Add services to the container.
 
-services.AddDbContext<DataContext>();
+services.AddDbContext<DataContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+
 
 services.AddCors(policyBuilder => {
     policyBuilder.AddPolicy( MyAllowLocalhostOrigins,

@@ -2,18 +2,21 @@ namespace MyFirstBlog.Services;
 
 using MyFirstBlog.Helpers;
 using MyFirstBlog.Entities;
-using System.Text.RegularExpressions;
 using MyFirstBlog.Dtos;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 public interface IPostService
 {
     IEnumerable<PostDto> GetPosts();
-    PostDto GetPost(String slug);
+    PostDto GetPost(string slug);
+    Task<PostDto> CreatePostAsync(Post post); // Add this method
 }
 
 public class PostService : IPostService
 {
-    private DataContext _context;
+    private readonly DataContext _context;
 
     public PostService(DataContext context)
     {
@@ -27,11 +30,23 @@ public class PostService : IPostService
 
     public PostDto GetPost(string slug)
     {
-        return getPost(slug).AsDto();
+        return getPost(slug)?.AsDto();
+    }
+
+    public async Task<PostDto> CreatePostAsync(Post post)
+    {
+        // Add the post to the database context
+        _context.Posts.Add(post);
+
+        // Save changes asynchronously
+        await _context.SaveChangesAsync();
+
+        // Return the created post as a DTO
+        return post.AsDto();
     }
 
     private Post getPost(string slug)
     {
-        return _context.Posts.Where(a=>a.Slug==slug.ToString()).SingleOrDefault();
+        return _context.Posts.SingleOrDefault(a => a.Slug == slug);
     }
 }
