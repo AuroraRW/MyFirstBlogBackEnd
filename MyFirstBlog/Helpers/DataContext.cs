@@ -1,22 +1,22 @@
-namespace MyFirstBlog.Helpers;
-
 using Microsoft.EntityFrameworkCore;
 using MyFirstBlog.Entities;
 
-
-public class DataContext : DbContext
+namespace MyFirstBlog.Helpers
 {
-    protected readonly IConfiguration Configuration;
-
-    public DataContext(IConfiguration configuration)
+    public class DataContext : DbContext
     {
-        Configuration = configuration;
-    }
+        protected readonly IConfiguration Configuration;
 
-    protected override void OnConfiguring(DbContextOptionsBuilder options)
-    {
-        options.UseNpgsql(ConnectionHelper.GetConnectionString(Configuration));
-    }
+        public DataContext(IConfiguration configuration)
+        {
+            Configuration = configuration;
+        }
 
-    public DbSet<Post> Posts { get; set; }
+        protected override void OnConfiguring(DbContextOptionsBuilder options)
+        {
+            options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
+        }
+
+        public DbSet<Post> Posts { get; set; }
+    }
 }
