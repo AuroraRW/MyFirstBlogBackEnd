@@ -9,6 +9,7 @@ public interface IPostService
 {
     IEnumerable<PostDto> GetPosts();
     PostDto GetPost(String slug);
+    void AddPost(Post post);
 }
 
 public class PostService : IPostService
@@ -28,6 +29,12 @@ public class PostService : IPostService
     public PostDto GetPost(string slug)
     {
         return getPost(slug).AsDto();
+    }
+
+    public void AddPost(Post post)
+    {
+        _context.Posts.Add(post);
+        _context.SaveChanges();
     }
 
     private Post getPost(string slug)

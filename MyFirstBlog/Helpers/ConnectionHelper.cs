@@ -8,6 +8,10 @@ public static class ConnectionHelper
     {
         var connectionString = configuration.GetConnectionString("DefaultConnection");
         var databaseUrl = Environment.GetEnvironmentVariable("DATABASE_URL");
+
+        Console.WriteLine($"Environment DATABASE_URL: {databaseUrl}"); //delete later
+        Console.WriteLine($"Configuration DefaultConnection: {connectionString}"); //delete later
+
         return string.IsNullOrEmpty(databaseUrl) ? connectionString : BuildConnectionString(databaseUrl);
     }
 

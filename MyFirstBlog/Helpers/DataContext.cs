@@ -15,6 +15,8 @@ public class DataContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder options)
     {
+        var connectionString = ConnectionHelper.GetConnectionString(Configuration); //delete later
+        Console.WriteLine($"Using connection string: {connectionString}"); //delete later
         options.UseNpgsql(ConnectionHelper.GetConnectionString(Configuration));
     }
 
