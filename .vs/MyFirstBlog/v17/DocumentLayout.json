@@ -1,38 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\",
+  "WorkspaceRootPath": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|c:\\00code\\fullstack\\myfirstblogbackend\\myfirstblog\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|c:\\users\\levyz\\source\\repos\\myfirstblogbackend\\myfirstblog\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\myfirstblog\\myfirstblog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\myfirstblog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\myfirstblog\\migrations\\20240812194537_postgresql_migration_597.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\migrations\\20240812194537_postgresql_migration_597.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\myfirstblog\\migrations\\20221128224120_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\migrations\\20221128224120_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\myfirstblog\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|c:\\00code\\fullstack\\myfirstblogbackend\\myfirstblog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\myfirstblog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|c:\\00code\\fullstack\\myfirstblogbackend\\myfirstblog\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84D99732-A7E9-4E69-B5C7-7DFAFE9815B7}|MyFirstBlogTests\\MyFirstBlogTests.csproj|C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\myfirstblogtests\\myfirstblogtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84D99732-A7E9-4E69-B5C7-7DFAFE9815B7}|MyFirstBlogTests\\MyFirstBlogTests.csproj|solutionrelative:myfirstblogtests\\myfirstblogtests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|c:\\00code\\fullstack\\myfirstblogbackend\\myfirstblog\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|c:\\00code\\fullstack\\myfirstblogbackend\\myfirstblog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|c:\\00code\\fullstack\\myfirstblogbackend\\myfirstblog\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\myfirstblog\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|c:\\00code\\fullstack\\myfirstblogbackend\\myfirstblog\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\myfirstblog\\helpers\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\helpers\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\myfirstblog\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\myfirstblog\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\myfirstblog\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|c:\\00code\\fullstack\\myfirstblogbackend\\myfirstblog\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\myfirstblog\\helpers\\connectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\helpers\\connectionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\myfirstblog\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\myfirstblog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB64A02C-C5D9-4D64-A357-7322C54B1419}|MyFirstBlog\\MyFirstBlog.csproj|solutionrelative:myfirstblog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,101 +73,213 @@
           "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e78e0cf7-2e4e-48a7-bf7f-a94d9330a3be}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Program.cs",
-              "RelativeDocumentMoniker": "MyFirstBlog\\Program.cs",
-              "ToolTip": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Program.cs",
-              "RelativeToolTip": "MyFirstBlog\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "DocumentIndex": 0,
+              "Title": "DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlog\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MyFirstBlog\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlog\\Migrations\\DataContextModelSnapshot.cs",
+              "RelativeToolTip": "MyFirstBlog\\Migrations\\DataContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T14:44:39.864Z"
+              "WhenOpened": "2024-08-01T19:41:51.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Post.cs",
-              "DocumentMoniker": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Entities\\Post.cs",
-              "RelativeDocumentMoniker": "MyFirstBlog\\Entities\\Post.cs",
-              "ToolTip": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Entities\\Post.cs",
-              "RelativeToolTip": "MyFirstBlog\\Entities\\Post.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T14:43:03.248Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PostDto.cs",
-              "DocumentMoniker": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Dtos\\PostDto.cs",
-              "RelativeDocumentMoniker": "MyFirstBlog\\Dtos\\PostDto.cs",
-              "ToolTip": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Dtos\\PostDto.cs",
-              "RelativeToolTip": "MyFirstBlog\\Dtos\\PostDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T14:42:47.081Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\appsettings.json",
-              "RelativeDocumentMoniker": "MyFirstBlog\\appsettings.json",
-              "ToolTip": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\appsettings.json",
-              "RelativeToolTip": "MyFirstBlog\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-15T14:49:58.169Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PostService.cs",
-              "DocumentMoniker": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Services\\PostService.cs",
-              "RelativeDocumentMoniker": "MyFirstBlog\\Services\\PostService.cs",
-              "ToolTip": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Services\\PostService.cs",
-              "RelativeToolTip": "MyFirstBlog\\Services\\PostService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T14:45:00.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Extensions.cs",
-              "DocumentMoniker": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlog\\Extensions.cs",
               "RelativeDocumentMoniker": "MyFirstBlog\\Extensions.cs",
-              "ToolTip": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Extensions.cs",
+              "ToolTip": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlog\\Extensions.cs",
               "RelativeToolTip": "MyFirstBlog\\Extensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T14:44:53.417Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlog\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "MyFirstBlog\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlog\\Properties\\launchSettings.json",
               "RelativeToolTip": "MyFirstBlog\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAfAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-15T14:50:05.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T14:50:05.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
+              "Title": "20240812194537_postgresql_migration_597.cs",
+              "DocumentMoniker": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlog\\Migrations\\20240812194537_postgresql_migration_597.cs",
+              "RelativeDocumentMoniker": "MyFirstBlog\\Migrations\\20240812194537_postgresql_migration_597.cs",
+              "ToolTip": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlog\\Migrations\\20240812194537_postgresql_migration_597.cs",
+              "RelativeToolTip": "MyFirstBlog\\Migrations\\20240812194537_postgresql_migration_597.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T19:47:35.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyFirstBlog.csproj",
+              "DocumentMoniker": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlog\\MyFirstBlog.csproj",
+              "RelativeDocumentMoniker": "MyFirstBlog\\MyFirstBlog.csproj",
+              "ToolTip": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlog\\MyFirstBlog.csproj",
+              "RelativeToolTip": "MyFirstBlog\\MyFirstBlog.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-12T19:45:03.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20221128224120_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlog\\Migrations\\20221128224120_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MyFirstBlog\\Migrations\\20221128224120_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlog\\Migrations\\20221128224120_InitialCreate.cs",
+              "RelativeToolTip": "MyFirstBlog\\Migrations\\20221128224120_InitialCreate.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T19:41:52.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlog\\Program.cs",
+              "RelativeDocumentMoniker": "MyFirstBlog\\Program.cs",
+              "ToolTip": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlog\\Program.cs",
+              "RelativeToolTip": "MyFirstBlog\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAIwDUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:44:39.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlog\\Helpers\\DataContext.cs",
+              "RelativeDocumentMoniker": "MyFirstBlog\\Helpers\\DataContext.cs",
+              "ToolTip": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlog\\Helpers\\DataContext.cs",
+              "RelativeToolTip": "MyFirstBlog\\Helpers\\DataContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T19:42:07.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyFirstBlogTests.csproj",
+              "DocumentMoniker": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlogTests\\MyFirstBlogTests.csproj",
+              "RelativeDocumentMoniker": "MyFirstBlogTests\\MyFirstBlogTests.csproj",
+              "ToolTip": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlogTests\\MyFirstBlogTests.csproj",
+              "RelativeToolTip": "MyFirstBlogTests\\MyFirstBlogTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-12T20:32:44.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlog\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "MyFirstBlog\\Services\\PostService.cs",
+              "ToolTip": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlog\\Services\\PostService.cs",
+              "RelativeToolTip": "MyFirstBlog\\Services\\PostService.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAowFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:45:00.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PostDto.cs",
+              "DocumentMoniker": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlog\\Dtos\\PostDto.cs",
+              "RelativeDocumentMoniker": "MyFirstBlog\\Dtos\\PostDto.cs",
+              "ToolTip": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlog\\Dtos\\PostDto.cs",
+              "RelativeToolTip": "MyFirstBlog\\Dtos\\PostDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:42:47.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlog\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "MyFirstBlog\\Entities\\Post.cs",
+              "ToolTip": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlog\\Entities\\Post.cs",
+              "RelativeToolTip": "MyFirstBlog\\Entities\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:43:03.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "PostsController.cs",
-              "DocumentMoniker": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Controllers\\PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlog\\Controllers\\PostsController.cs",
               "RelativeDocumentMoniker": "MyFirstBlog\\Controllers\\PostsController.cs",
-              "ToolTip": "C:\\00code\\FullStack\\MyFirstBlogBackEnd\\MyFirstBlog\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlog\\Controllers\\PostsController.cs",
               "RelativeToolTip": "MyFirstBlog\\Controllers\\PostsController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T14:42:54.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConnectionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlog\\Helpers\\ConnectionHelper.cs",
+              "RelativeDocumentMoniker": "MyFirstBlog\\Helpers\\ConnectionHelper.cs",
+              "ToolTip": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlog\\Helpers\\ConnectionHelper.cs",
+              "RelativeToolTip": "MyFirstBlog\\Helpers\\ConnectionHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T18:55:00.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlog\\appsettings.json",
+              "RelativeDocumentMoniker": "MyFirstBlog\\appsettings.json",
+              "ToolTip": "C:\\Users\\levyz\\source\\repos\\MyFirstBlogBackEnd\\MyFirstBlog\\appsettings.json",
+              "RelativeToolTip": "MyFirstBlog\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-08T20:01:13.742Z"
             }
           ]
         }
