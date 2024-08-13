@@ -1,8 +1,11 @@
-namespace MyFirstBlog.Entities;
-public record Post {
-    public Guid Id { get; init; }
-    public string Title { get; init; } = default!;
-    public string Slug { get; init; } = default!;
-    public string Body { get; init; } = default!;
-    public DateTime CreatedDate { get; init; }
+namespace MyFirstBlog.Entities
+{
+    public class Post
+    {
+        public Guid Id { get; set; }
+        public string Title { get; set; }
+        public string Slug { get; set; }
+        public string Body { get; set; }
+        public DateTime CreatedDate { get; set; }  // Updated to CreatedDate
+    }
 }
