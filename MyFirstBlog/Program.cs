@@ -1,7 +1,8 @@
 using MyFirstBlog.Helpers;
 using MyFirstBlog.Services;
+using Microsoft.EntityFrameworkCore;
 
-var  MyAllowLocalhostOrigins = "_myAllowLocalhostOrigins";
+var MyAllowLocalhostOrigins = "_myAllowLocalhostOrigins";
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,10 +11,11 @@ var env = builder.Environment;
 
 // Add services to the container.
 
-services.AddDbContext<DataContext>();
+services.AddDbContext<DataContext>(options =>
+    options.UseNpgsql(ConnectionHelper.GetConnectionString(builder.Configuration)));
 
 services.AddCors(policyBuilder => {
-    policyBuilder.AddPolicy( MyAllowLocalhostOrigins,
+    policyBuilder.AddPolicy(MyAllowLocalhostOrigins,
         policy => {
             policy.WithOrigins("http://localhost:3000").AllowAnyHeader().AllowAnyMethod();
         });
@@ -24,7 +26,7 @@ services.AddControllers();
 services.AddEndpointsApiExplorer();
 services.AddSwaggerGen();
 
-services.AddScoped<IPostService, PostService>();
+services.AddScoped<PostService>(); // Register PostService directly
 
 var app = builder.Build();
 

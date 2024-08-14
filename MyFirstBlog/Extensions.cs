@@ -1,18 +1,15 @@
 using MyFirstBlog.Dtos;
-using MyFirstBlog.Entities;
+using System;
 
-namespace MyFirstBlog {
-    public static class Extensions {
-        public static PostDto AsDto(this Post post) {
-            return new PostDto
-            {
-                Id = post.Id,
-                Title = post.Title,
-                Slug = post.Slug,
-                Body = post.Body,
-                CreatedDate = post.CreatedDate
-            };
-            
+namespace MyFirstBlog.Extensions
+{
+    public static class PostExtensions
+    {
+        public static void UpdatePost(this PostDto postDto, string title, string body, DateTime createDate)
+        {
+            postDto.Title = title;
+            postDto.Body = body;
+            postDto.CreatedDate = createDate; // Correct usage of CreateDate
         }
     }
-};
+}
